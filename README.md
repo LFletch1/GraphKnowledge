@@ -12,7 +12,7 @@ This repository is simply a place to track important or interesting graph algori
   ([2011 Paper](https://dl.acm.org/doi/10.1145/1989656.1989657))
 
 ### Vertex Similarity Metrics
-+ **[SimRank](https://dl.acm.org/doi/pdf/10.1145/775047.775126):** " The intuition behind our algorithm is that, in many domains, similar objects are related to similar" objects."
++ **[SimRank](https://dl.acm.org/doi/pdf/10.1145/775047.775126):** "The intuition behind our algorithm is that, in many domains, similar objects are related to similar objects."
 
 ### PageRank, Personalized PageRank
 + **[PPR via Random Walks](https://www.tandfonline.com/doi/abs/10.1080/15427951.2005.10129104):** Earliest paper I could find that calculated personalize PageRank by      simiulating many random walks.
