@@ -13,6 +13,7 @@ This repository is simply a place to track important or interesting graph algori
 
 ### PageRank, Personalized PageRank
 + **[PPR via Random Walks](https://www.tandfonline.com/doi/abs/10.1080/15427951.2005.10129104):** Earliest paper I could find that calculated personalize PageRank by      simiulating many random walks.
+    - [PowerWalk](https://dl.acm.org/doi/pdf/10.1145/2983323.2983713) also describes a similar algorithm to calculate PPR along with an implementation.
   
 ### Parallel Graph Algorithms
 + **[Pivoter](https://github.com/sjain12/Pivoter):** Parallel clique counting algorithm which uses a data structure called succinct clique tree (SCT) to store a compressed unique representation of all cliques.
