@@ -10,6 +10,10 @@ This repository is simply a place to track important or interesting graph algori
 ### Centralities
 + **[K-path](https://dl.acm.org/doi/abs/10.1145/1989656.1989657):** Vertices of higher importance have are more frequently traversed when sampling simple paths of length at most K.
   ([2011 Paper](https://dl.acm.org/doi/10.1145/1989656.1989657))
+
+### PageRank, Personalized PageRank
++ **[PPR via Random Walks](https://www.tandfonline.com/doi/abs/10.1080/15427951.2005.10129104):** Earliest paper I could find that calculated personalize PageRank by      simiulating many random walks.
+  
 ### Parallel Graph Algorithms
 + **[Pivoter](https://github.com/sjain12/Pivoter):** Parallel clique counting algorithm which uses a data structure called succinct clique tree (SCT) to store a compressed unique representation of all cliques.
   ([2020 Paper](https://dl.acm.org/doi/abs/10.1145/3336191.3371839))
